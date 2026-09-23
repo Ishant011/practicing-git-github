@@ -1,2 +1,3 @@
 # practicing-git-github
-learning about git and github doing contributions
+learning about git and github doing contributions.
+Author - Ishant Kochar
